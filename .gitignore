@@ -24,4 +24,6 @@ dist/
 # 그 외 임시 파일들
 *.log
 *.tmp
-*.swp 
+*.swp
+
+*.lock
